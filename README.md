@@ -24,4 +24,3 @@
 
 ![Panji Angkasa Pura's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnjia&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnjia&show_icons=true&locale=en" alt="pnjia" /></p>
